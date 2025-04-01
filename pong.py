@@ -1,3 +1,5 @@
+#ready to make public
+
 import turtle
 #import winsound
 window = turtle.Screen()
